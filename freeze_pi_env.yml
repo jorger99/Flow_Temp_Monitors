@@ -1,0 +1,6 @@
+name: freeze_pi
+channels:
+  - defaults
+dependencies:
+  - nb_conda
+prefix: /usr/local/anaconda3/envs/freeze_pi
