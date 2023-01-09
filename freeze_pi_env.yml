@@ -122,3 +122,6 @@ dependencies:
       - pyvisa-py==0.6.0
       - zeroconf==0.47.1
 prefix: /usr/local/anaconda3/envs/freeze_pi
+# packages in environment at /home/freeze/miniforge-pypy3:
+#
+# Name                    Version                   Build  Channel
